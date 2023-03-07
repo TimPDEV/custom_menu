@@ -24,6 +24,8 @@ git clone <link>
 - В папке проекта создайте виртуальное окружение:
 ```
 python -m venv venv
+
+source venv/bin/activate
 ```
 
 - В папке `menu` примените миграции:
