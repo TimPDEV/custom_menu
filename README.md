@@ -28,6 +28,11 @@ python -m venv venv
 source venv/bin/activate
 ```
 
+- Установите `django`:
+```
+pip install django
+```
+
 - В папке `menu` примените миграции:
 ```
 python manage.py migrate
